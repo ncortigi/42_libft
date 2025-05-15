@@ -47,6 +47,8 @@ E aggiungi `libft.a` durante la compilazione:
 gcc main.c -L. -lft
 ```
 
+---
+
 ### 👤 Autore
 
 💻 Progetto realizzato da ncortigi per la scuola 42
