@@ -41,4 +41,4 @@ gcc main.c -L. -lft
 
 ### Autore
 
-Progetto realizzato da [ncortigi] per la scuola 42.
+Progetto realizzato da ncortigi per la scuola 42.
